@@ -8,7 +8,7 @@ The objective of this project is to analyze bike theft in Berlin by expanding th
 
 2. **Data Analysis and Joins**: Using SQL, I will perform data analysis and joins to merge the bike theft database with the scraped datasets, creating a comprehensive dataset for analysis.
 
-3. **Data Visualization**: I will use Tableau to create interactive visualizations, such as maps, ❤️pie charts❤️, and graphs, to explore patterns, correlations, and hotspots related to bike theft in Berlin.
+3. **Data Visualization**: I will use Tableau to create interactive visualizations, such as maps, pie charts, and graphs, to explore patterns, correlations, and hotspots related to bike theft in Berlin.
 
 4. **Machine Learning Models**: I aim to develop a predictive model to forecast bike theft crimes in various locations.
 
